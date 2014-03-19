@@ -58,6 +58,8 @@
 #include <libdocument/ev-version.h>
 #include <libdocument/ev-macros.h>
 
+#define _THIS_IS_COOL
+
 #undef __EV_EVINCE_DOCUMENT_H_INSIDE__
 
 #endif /* !EVINCE_DOCUMENT_H */
